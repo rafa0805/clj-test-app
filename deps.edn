@@ -1,0 +1,3 @@
+{:path ["src"]
+ :deps {io.github.rafa0805/clj-git-lib {:git/sha "e8be875b7e76f15fd6d5073fab1b128c6bb4f9ac"
+                                        :git/url "https://github.com/rafa0805/clj-git-lib"}}}
